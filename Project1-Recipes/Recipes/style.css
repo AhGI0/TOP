@@ -1,0 +1,17 @@
+*{ 
+    background-color: black;
+    color: whitesmoke;
+    font-size: 15px;
+}
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+li  { 
+    margin:10px 0 10px 0;
+    font-family:'Courier New', Courier, monospace;
+}
+img { 
+    size: 300px; 
+    height: 300px;
+}
